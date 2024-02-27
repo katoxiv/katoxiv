@@ -1,4 +1,4 @@
-### 👨‍💻 About Joshua Kato Muwanguzi 👨‍💻
+### 👨‍💻 About Me ... 👨‍💻
 
 🔹 **Languages:** Python, C/C++, JavaScript, HTML, CSS, Java, SQL, C#, Go
 
