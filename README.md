@@ -70,6 +70,6 @@ Passionate about cybersecurity with a proven track record in cloud security, SOC
 
 ---
 
-💡 *"In the world of cybersecurity, staying one step ahead is not just a goal—it's a necessity. I'm committed to continuous learning and innovation to keep digital assets safe in an ever-evolving threat landscape."*
+💡 *"In the world of cybersecurity, you do not have a vulnerability problem, but an adversary problem, so staying one step ahead is not just a goal—it's a necessity. I'm committed to continuous learning and innovation to keep digital assets safe in an ever-evolving threat landscape."*
 
 
