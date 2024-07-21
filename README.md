@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joshua Kato
 
-## 🛡️ Security Analyst | Cloud Security Engineer | SOC Analyst
+## 🛡️ Information Security Analyst | Cloud Security Engineer | IT Support Specialist
 
 Passionate about cybersecurity with a proven track record in cloud security, SOC operations, and system administration. I leverage my technical expertise and analytical skills to protect digital assets and strengthen security postures.
 
