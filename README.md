@@ -18,7 +18,7 @@ Passionate about cybersecurity with a proven track record in cloud security, SOC
 - **Security Tools:** Splunk, Kibana, Sentinel, Zscaler, VirusTotal
 - **Programming:** Python, SQL, C/C++
 - **Containerization:** Docker
-- **OS:** Linux, Windows
+- **OS:** Linux, Windows, MAC
 - **Frameworks:** MITRE ATT&CK, ITIL, NIST, OWASP, GDPR, PCI DSS, ISO, STRIDE
 
 ### 🏆 Certifications
@@ -30,20 +30,20 @@ Passionate about cybersecurity with a proven track record in cloud security, SOC
 
 ### 💼 Professional Experience
 
-#### Cloud Security Engineer at Microsoft (Nov 2023 - Present)
+#### Cloud Security Engineer Project at Microsoft (Nov 2023 - Present)
 - Migrated on-premise data to multi-cloud platforms, reducing downtime and attack surface
 - Implemented temporary security credentials for secure access control
 - Secured data in-flight with TLS over HTTPS
 - Automated responses to IOCs using playbooks, reducing MTTD and MTTR
 
-#### SOC Analyst at IBM (Apr 2022 - Sept 2023)
+#### SOC Analyst Project at IBM (Apr 2022 - Sept 2023)
 - Conducted daily malware analysis and sandbox testing
 - Performed vulnerability assessments and prioritized fixes
 - Implemented robust password hashing and data encryption
 - Created security dashboards to accelerate operations
 - Conducted pen tests and phishing simulations
 
-#### System Administrator at Google (Mar 2018 - Dec 2021)
+#### System Administrator Project at Google (Mar 2018 - Dec 2021)
 - Built and optimized over 100 high-performance computers
 - Scaled operations to improve capacity and reduce downtime
 - Enforced access control and MFA for regulatory compliance
@@ -65,8 +65,8 @@ Passionate about cybersecurity with a proven track record in cloud security, SOC
 
 - 📧 Email: katocxl@gmail.com
 - 📱 Phone: +44 7342 763585
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐙 [GitHub](https://github.com/your-github-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-kato-muwanguzi/)
+- 🐙 [GitHub](https://github.com/katoxiv)
 
 ---
 
