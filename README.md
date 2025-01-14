@@ -11,7 +11,7 @@ I am a **Cybersecurity and IT Professional** with a passion for safeguarding dig
 - **💻 IT Support & System Administration:** Proficient in managing virtual environments, optimizing high-performance computing systems, and ensuring compliance with regulatory frameworks.
 - **🤖 Artificial Intelligence:** Developed AI models and solutions for predictive analytics and security automation during voluntary work.
 - **🎓 Advanced Education & Research:** M.Sc. in Cyber Security Analytics with a focus on anti-fuzzing techniques and building trustworthy systems.
-- **📊 Certifications & Continuous Learning:** Certified in Azure Security and IBM Cybersecurity, with ongoing pursuit of OSCP and AWS Security Specialty certifications.
+- **📊 Certifications & Continuous Learning:** Certified in Azure Security and IBM Cybersecurity, with ongoing pursuit of OSCP, CISSP and HTB Certified Defensive Security Analyst certifications.
 
 ---
 
@@ -47,7 +47,7 @@ I am a **Cybersecurity and IT Professional** with a passion for safeguarding dig
 - **IBM Cybersecurity Analyst**
 - **Google IT Support**
 - **Microsoft Azure Fundamentals Exam Prep (AZ-900)**
-- **(Planned):** CISSP, HTB Certified Defensive Security Analyst
+- **(Planned):** OSCP, CISSP, HTB Certified Defensive Security Analyst
 
 ---
 
