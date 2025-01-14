@@ -37,7 +37,7 @@ I am a **Cybersecurity and IT Professional** with a passion for safeguarding dig
 
 ### **Artificial Intelligence**
 - **Applications:** Machine learning for predictive analytics and anomaly detection
-- **Technologies:** TensorFlow, Scikit-learn, Pandas, NumPy, OPENAI, Google Gemini
+- **Technologies:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenAI, Google Gemini
 
 ---
 
