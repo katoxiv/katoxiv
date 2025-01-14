@@ -1,67 +1,125 @@
-# Hi, ... I`m Joshua Kato
+# 👋 Hi, I'm Joshua Kato
 
-I am passionate about safeguarding digital landscapes with a robust expertise in cloud security, SOC operations, and system administration. My technical proficiency, coupled with sharp analytical skills, drives my mission to fortify security postures and protect valuable digital assets.
-
-## 🚀 Key Highlights
-
-- **🔒 Securing Multi-Cloud Platforms:** Currently working on a Microsoft project to secure multi-cloud environments.
-- **🕵️ SOC Analyst Expertise:** Formerly involved in an IBM project focusing on threat detection and response.
-- **💻 System Administration:** Adept at optimizing system performance and ensuring operational excellence.
-- **🎓 Advanced Education:** M.Sc. in Cyber Security Analytics from the University of Exeter.
-- **📊 Technical Proficiency:** Extensive experience with SIEM, SOAR, EDR, and ITSM technologies.
-
-## 🛠️ Tech Stack
-
-- **Cloud Platforms:** Azure, AWS
-- **Security Tools:** Splunk, Kibana, Sentinel, Zscaler, VirusTotal
-- **Programming:** Python, SQL, C/C++
-- **Containerization:** Docker
-- **Operating Systems:** Linux, Windows, MacOS
-- **Frameworks:** MITRE ATT&CK, ITIL, NIST, OWASP, GDPR, PCI DSS, ISO, STRIDE
-
-## 🏆 Certifications
-
-- **Azure Security Engineer Associate (AZ-500)**
-- **Microsoft Azure Fundamentals (AZ-900)**
-- **IBM Cybersecurity Analyst**
-- **Google IT Support**
-
-## 💼 Featured Projects
-
-### Secure & Soar: Cloud Scalability & Efficiency with Microsoft  
-**Nov 2023 - Present**
-- Migrated on-premises data to multi-cloud platforms, minimizing downtime and reducing the attack surface.
-- Implemented temporary security credentials to enhance access control.
-- Secured data in transit using TLS over HTTPS.
-- Automated threat responses with playbooks, significantly lowering Mean Time to Detect (MTTD) and Mean Time to Respond (MTTR).
-
-### Automating Security at the Speed of Business with IBM  
-**Apr 2022 - Sept 2023**
-- Conducted daily malware analysis and sandbox testing to identify and mitigate threats.
-- Performed vulnerability assessments and prioritized remediation efforts.
-- Enhanced security through robust password hashing and data encryption.
-- Developed security dashboards to streamline operations.
-- Led penetration testing and phishing simulations to strengthen defenses.
-
-### High Performance Computing with Google  
-**Mar 2018 - Dec 2021**
-- Engineered and optimized over 100 high-performance computing systems.
-- Scaled operations to enhance capacity and minimize downtime.
-- Enforced access control measures and multi-factor authentication (MFA) for regulatory compliance.
-- Increased server uptime by 7% through proactive maintenance strategies.
-
-## 📚 Education
-
-- **M.Sc. in Cyber Security Analytics** (Merit) - University of Exeter (2022-2023)
-- **B.Sc. in Applied Information Technology** (First Class) - ISBAT University (2018-2021)
-
-## 📫 Connect with Me
-
-- **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)
-- **Phone:** +44 7342 763585
-- **LinkedIn:** [linkedin.com/in/joshua-kato-muwanguzi](https://www.linkedin.com/in/joshua-kato-muwanguzi/)
-- **GitHub:** [github.com/katoxiv](https://github.com/katoxiv)
+I am a **Cybersecurity and IT Professional** with a passion for safeguarding digital ecosystems, optimizing IT infrastructure, and solving complex security challenges. My expertise spans **cloud security**, **SOC operations**, **system administration**, **ethical hacking**, and **artificial intelligence**, with a proven track record of leveraging advanced technical skills to fortify security postures, improve system performance, and drive innovation.
 
 ---
 
-💡 *"In cybersecurity, the challenge isn't just managing vulnerabilities—it's outpacing adversaries. My commitment is to continuous learning and innovation, ensuring the safety of digital assets."*
+## 🚀 **Key Highlights**
+
+- **🔒 Multi-Cloud Security:** Expertise in securing Azure, AWS, and hybrid environments with IAM, DDoS protection, and encryption standards like AES and TLS.
+- **🕵️ SOC Analyst Expertise:** Hands-on experience in real-time threat detection, incident response, malware analysis, and vulnerability management.
+- **💻 IT Support & System Administration:** Proficient in managing virtual environments, optimizing high-performance computing systems, and ensuring compliance with regulatory frameworks.
+- **🤖 Artificial Intelligence:** Developed AI models and solutions for predictive analytics and security automation during voluntary work.
+- **🎓 Advanced Education & Research:** M.Sc. in Cyber Security Analytics with a focus on anti-fuzzing techniques and building trustworthy systems.
+- **📊 Certifications & Continuous Learning:** Certified in Azure Security and IBM Cybersecurity, with ongoing pursuit of OSCP and AWS Security Specialty certifications.
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Security & Analysis**
+- **Tools:** Crowdstrike EDR, Splunk, Microsoft Sentinel, Kibana, Nessus, Nmap, Zscaler, VirusTotal, Sandboxes, Wazuh
+- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain, NIST, OWASP, GDPR, PCI DSS, ISO 27001, STRIDE
+- **Processes:** Threat modeling, vulnerability assessments, penetration testing, phishing simulations, incident management, documentation
+
+### **Cloud & DevOps**
+- **Platforms:** Microsoft Azure, AWS, Google Cloud Platform (GCP)
+- **Automation:** Playbooks for SOAR, Terraform, Ansible, PowerShell scripts
+- **Containerization:** Docker, Kubernetes, Amazon ECS, Azure & GCP
+
+### **Programming & Scripting**
+- **Languages:** Python, Bash, PowerShell, SQL, C, C++
+- **Applications:** Data parsing, malware analysis, incident response automation
+
+### **IT Support & Systems Administration**
+- **Operating Systems:** Linux, Windows, macOS, ChromeOS, Android
+- **Technologies:** Active Directory (RBAC, MFA), Virtual Machines, VPNs, File Systems, TCP/IP, DNS, virtualization
+
+### **Artificial Intelligence**
+- **Applications:** Machine learning for predictive analytics and anomaly detection
+- **Technologies:** TensorFlow, Scikit-learn, Pandas, NumPy, OPENAI, Google Gemini
+
+---
+
+## 🏆 **Certifications**
+
+- **Microsoft Azure Security Engineer Associate (AZ-500)**
+- **IBM Cybersecurity Analyst**
+- **Google IT Support**
+- **Microsoft Azure Fundamentals Exam Prep (AZ-900)**
+- **(Planned):** CISSP, HTB Certified Defensive Security Analyst
+
+---
+
+## 💼 **Featured Projects**
+
+### **Secure & SOAR: Scalable Cloud Security Solutions** (Microsoft)  
+**Nov 2023 - Present**  
+- Migrated sensitive data to multi-cloud environments (Azure, AWS), reducing downtime, costs, and attack vectors.
+- Developed and deployed automated playbooks to accelerate incident response times.
+- Implemented IAM policies and TLS encryption, ensuring secure access and data transit.
+- Designed and enforced firewall strategies to prevent lateral movement in breach scenarios.
+- Reduced MTTR by 40% through advanced SOAR integrations and playbook development.
+
+### **Automated Incident Response in SOC** (IBM)  
+**Apr 2022 - Sept 2023**  
+- Built dynamic dashboards (Splunk, Sentinel, Kibana) to streamline SOC workflows.
+- Conducted vulnerability assessments, achieving a 95% closure rate for critical CWEs.
+- Performed phishing simulations and guided vulnerability remediation, reducing user-induced threats.
+- Executed penetration tests and fuzzing guided by MITRE ATT&CK, thwarting API manipulation tactics.
+- Automated malware analysis with sandboxes and VirusTotal, improving detection efficiency.
+
+### **Optimized IT Systems for High Performance** (Google)  
+**Mar 2018 - Dec 2021**  
+- Designed and maintained 100+ high-performance systems with advanced hardware configurations.
+- Scaled IT operations for increased workload, minimizing downtime and improving performance.
+- Improved server uptime by 7% through proactive maintenance, saving operational costs.
+- Enforced compliance with RBAC, MFA, and active directory policies.
+
+### **Thesis: Anti-Fuzzing in Early Development** (University of Exeter)  
+**2022-2023**  
+- Researched and developed methodologies to mitigate fuzzing attacks during API development.
+- Presented findings on secure software development practices, emphasizing proactive security measures.
+
+### **AI Predictive Analytics for Cybersecurity** (Reality AI Lab, Voluntary Work)  
+**Remote - New York, US**  
+- Developed machine learning models to solve business problems.
+- Automated threat detection using anomaly detection algorithms, reducing response time by 25%.
+- Utilized Python and TensorFlow to create scalable AI solutions.
+
+### **Enhanced IT Systems for Quality Chemicals Industries** (Voluntary Work)  
+**Kampala, UG**  
+- Improved IT operations by troubleshooting system and network issues
+- Implemented Active Directory for secure identity management.
+
+---
+
+## 📚 **Education**
+
+- **M.Sc. in Cyber Security Analytics** – University of Exeter (2022-2023)  
+  - Specialized in security assessment and validation, cryptography, ethical hacking, digital forensics, and building trustworthy systems.  
+- **B.Sc. in Applied Information Technology** – ISBAT University (2018-2021)  
+  - Focused on programming, algorithms, databases, networking and security.
+
+---
+
+## 🌟 **Soft Skills**
+
+- Strong communicator with experience delivering training sessions on phishing awareness and cybersecurity best practices.  
+- Proactive team player skilled in mentoring, cross-functional collaboration, and stakeholder engagement.  
+- Analytical thinker with a keen ability to identify patterns in complex data sets and deliver actionable insights.  
+- Detail-oriented problem solver who thrives under pressure and adheres to strict deadlines.
+
+---
+
+## 📫 **Connect with Me**
+
+- **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/joshua-kato-muwanguzi](https://www.linkedin.com/in/joshua-kato-muwanguzi/)  
+- **GitHub:** [github.com/katoxiv](https://github.com/katoxiv)  
+
+---
+
+💡 *"The greatest defense in cybersecurity is proactive thinking and innovation. I am committed to pushing the boundaries of technology to create secure and resilient systems."*  
+
+---
