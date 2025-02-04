@@ -1,125 +1,137 @@
-# 👋 Hi, I'm Joshua Kato
+# Joshua Kato Muwanguzi
 
-I am a **Cybersecurity and IT Professional** with a passion for safeguarding digital ecosystems, optimizing IT infrastructure, and solving complex security challenges. My expertise spans **cloud security**, **SOC operations**, **system administration**, **ethical hacking**, and **artificial intelligence**, with a proven track record of leveraging advanced technical skills to fortify security postures, improve system performance, and drive innovation.
+**Security Operations Center Analyst | Ethical Hacker**
 
----
-
-## 🚀 **Key Highlights**
-
-- **🔒 Multi-Cloud Security:** Expertise in securing Azure, AWS, and hybrid environments with IAM, DDoS protection, and encryption standards like AES and TLS.
-- **🕵️ SOC Analyst Expertise:** Hands-on experience in real-time threat detection, incident response, malware analysis, and vulnerability management.
-- **💻 IT Support & System Administration:** Proficient in managing virtual environments, optimizing high-performance computing systems, and ensuring compliance with regulatory frameworks.
-- **🤖 Artificial Intelligence:** Developed AI models and solutions for predictive analytics and security automation during voluntary work.
-- **🎓 Advanced Education & Research:** M.Sc. in Cyber Security Analytics with a focus on anti-fuzzing techniques and building trustworthy systems.
-- **📊 Certifications & Continuous Learning:** Certified in Azure Security and IBM Cybersecurity, with ongoing pursuit of OSCP, CISSP and HTB Certified Defensive Security Analyst certifications.
+Welcome to my GitHub profile! I’m Joshua, a cybersecurity professional with over 9 years of hands-on experience in offensive security, network protection, and IT infrastructure optimization. My passion is empowering organizations to thrive in a secure, agile digital landscape through bespoke IT solutions and cutting-edge cybersecurity practices.
 
 ---
 
-## 🛠️ **Tech Stack**
+## About Me
 
-### **Security & Analysis**
-- **Tools:** Crowdstrike EDR, Splunk, Microsoft Sentinel, Kibana, Nessus, Nmap, Zscaler, VirusTotal, Sandboxes, Wazuh
-- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain, NIST, OWASP, GDPR, PCI DSS, ISO 27001, STRIDE
-- **Processes:** Threat modeling, vulnerability assessments, penetration testing, phishing simulations, incident management, documentation
+I combine elite academic credentials—including an M.Sc in Cyber Security Analytics from the University of Exeter and a First-Class B.Sc in Applied Information Technology from the University of ISBAT—with extensive practical experience in cybersecurity, penetration testing, and cloud security. My career is dedicated to:
+- **Mitigating risk** by identifying vulnerabilities in networks and systems.
+- **Innovating security operations** by integrating advanced SIEM, incident response, and threat-hunting strategies.
+- **Optimizing IT infrastructure** through high-performance computing solutions and automation.
 
-### **Cloud & DevOps**
-- **Platforms:** Microsoft Azure, AWS, Google Cloud Platform (GCP)
-- **Automation:** Playbooks for SOAR, Terraform, Ansible, PowerShell scripts
-- **Containerization:** Docker, Kubernetes, Amazon ECS, Azure & GCP
-
-### **Programming & Scripting**
-- **Languages:** Python, Bash, PowerShell, SQL, C, C++
-- **Applications:** Data parsing, malware analysis, incident response automation
-
-### **IT Support & Systems Administration**
-- **Operating Systems:** Linux, Windows, macOS, ChromeOS, Android
-- **Technologies:** Active Directory (RBAC, MFA), Virtual Machines, VPNs, File Systems, TCP/IP, DNS, virtualization
-
-### **Artificial Intelligence**
-- **Applications:** Machine learning for predictive analytics and anomaly detection
-- **Technologies:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenAI, Google Gemini
+When I’m not diving into the latest security challenges, I’m developing innovative tools (like my AI-powered resume optimizer) and collaborating with peers on open-source projects that push the boundaries of cybersecurity and IT efficiency.
 
 ---
 
-## 🏆 **Certifications**
+## Contact
 
+- **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)
+- **Phone:** +256 771 884 501
+- **LinkedIn:** [Visit my profile](#) *(https://www.linkedin.com/in/joshua-kato-muwanguzi/)*
+- **GitHub:** [Explore my projects](#) *(This link)*
+
+---
+
+## Technical Skills
+
+I bring a robust and diverse skill set that includes:
+
+- **Offensive Security & Testing**  
+  *Penetration Testing, Red Teaming (OSINT, Web App Security, Cloud Security, API Testing)*
+
+- **Networking & Cloud Security**  
+  *Expertise in TCP/IP, VLANs, Firewalls, VPNs, and cloud platforms (AWS, Azure, GCP, Kubernetes, IAM Policies)*
+
+- **Threat Detection & Compliance**  
+  *SOC Operations (SIEM, Incident Response, Threat Hunting), compliance frameworks (OWASP Top 10, NIST, GDPR, HIPAA)*
+
+- **Security Tools & Scripting**  
+  *Proficient with Nmap, Metasploit, Burp Suite, Wireshark, Nessus; programming in Python, Bash, PowerShell, and C/C++*
+
+---
+
+## Education & Certifications
+
+### University of Exeter, UK
+**M.Sc in Cyber Security Analytics** *(Merit Distinction)*  
+*Sept. 2022 – Sept. 2023*  
+- **Thesis:** "Potential of Anti-Fuzzing in Early Development: Case Study on a Calculator API"
+- **Key Courses:** Risk Assessment & Security Validation, Cryptography, Ethical Hacking, Network Security, Data Analytics, Digital Forensics, Governance & Compliance
+
+### University of ISBAT, Kampala, UG
+**B.Sc in Applied Information Technology** *(First Class)*  
+*Mar. 2018 – Dec. 2021*  
+- **Project:** "Inventory Management System"
+- **Key Courses:** Programming, Databases, Operating Systems, Web Development, Cybersecurity, Mathematics, Software Engineering, Networking
+
+### Additional Certifications
 - **Microsoft Azure Security Engineer Associate (AZ-500)**
+- **Microsoft Azure Fundamentals (AZ-900)**
 - **IBM Cybersecurity Analyst**
 - **Google IT Support**
-- **Microsoft Azure Fundamentals Exam Prep (AZ-900)**
-- **(Planned):** OSCP, CISSP, HTB Certified Defensive Security Analyst
 
 ---
 
-## 💼 **Featured Projects**
+## Projects & Hands-on Experience
 
-### **Secure & SOAR: Scalable Cloud Security Solutions** (Microsoft)  
-**Nov 2023 - Present**  
-- Migrated sensitive data to multi-cloud environments (Azure, AWS), reducing downtime, costs, and attack vectors.
-- Developed and deployed automated playbooks to accelerate incident response times.
-- Implemented IAM policies and TLS encryption, ensuring secure access and data transit.
-- Designed and enforced firewall strategies to prevent lateral movement in breach scenarios.
-- Reduced MTTR by 40% through advanced SOAR integrations and playbook development.
+### Offensive Security & Cloud Penetration Testing
+**Location:** London, United Kingdom  
+**Duration:** Nov 2023 – Present  
+- Conducting penetration tests on isolated networks (via Hack The Box) to identify vulnerabilities including OWASP Top 10 and critical CVEs.
+- Simulating privilege escalation attacks on both Windows and Linux environments to reveal and mitigate authentication gaps.
+- Assessing Azure cloud security to identify IAM misconfigurations and potential privilege escalation paths.
 
-### **Automated Incident Response in SOC** (IBM)  
-**Apr 2022 - Sept 2023**  
-- Built dynamic dashboards (Splunk, Sentinel, Kibana) to streamline SOC workflows.
-- Conducted vulnerability assessments, achieving a 95% closure rate for critical CWEs.
-- Performed phishing simulations and guided vulnerability remediation, reducing user-induced threats.
-- Executed penetration tests and fuzzing guided by MITRE ATT&CK, thwarting API manipulation tactics.
-- Automated malware analysis with sandboxes and VirusTotal, improving detection efficiency.
+### Security Operations & Threat Hunting
+**Location:** Exeter, UK  
+**Duration:** Apr 2022 – Sept 2023  
+- Developed real-time SIEM dashboards in Splunk and Sentinel, automating IOC handling with 10+ weekly playbooks.
+- Performed malware analysis using Any.Run and VirusTotal, mitigating emerging threats on a weekly basis.
+- Led phishing training simulations for 20+ users monthly, boosting security awareness and reducing data leakage.
+- Implemented MITRE ATT&CK-guided fuzzing tests, effectively preventing common API manipulation attack patterns.
 
-### **Optimized IT Systems for High Performance** (Google)  
-**Mar 2018 - Dec 2021**  
-- Designed and maintained 100+ high-performance systems with advanced hardware configurations.
-- Scaled IT operations for increased workload, minimizing downtime and improving performance.
-- Improved server uptime by 7% through proactive maintenance, saving operational costs.
-- Enforced compliance with RBAC, MFA, and active directory policies.
-
-### **Thesis: Anti-Fuzzing in Early Development** (University of Exeter)  
-**2022-2023**  
-- Researched and developed methodologies to mitigate fuzzing attacks during API development.
-- Presented findings on secure software development practices, emphasizing proactive security measures.
-
-### **AI Predictive Analytics for Cybersecurity** (Reality AI Lab, Voluntary Work)  
-**Remote - New York, US**  
-- Developed machine learning models to solve business problems.
-- Automated threat detection using anomaly detection algorithms, reducing response time by 25%.
-- Utilized Python and TensorFlow to create scalable AI solutions.
-
-### **Enhanced IT Systems for Quality Chemicals Industries** (Voluntary Work)  
-**Kampala, UG**  
-- Improved IT operations by troubleshooting system and network issues
-- Implemented Active Directory for secure identity management.
+### High-Performance Computing & IT Optimization
+**Location:** Kampala, UG  
+**Duration:** Mar 2018 – Dec 2021  
+- Designed and deployed over 100 high-performance computing workstations optimized with SSDs, GPUs, and advanced cooling systems.
+- Segmented internal networks by strategically positioning firewalls and deploying DDoS protection to prevent lateral movement.
+- Enhanced internal security by implementing RBAC and MFA policies in Active Directory, reducing unauthorized access.
 
 ---
 
-## 📚 **Education**
+## Professional & Voluntary Experience
 
-- **M.Sc. in Cyber Security Analytics** – University of Exeter (2022-2023)  
-  - Specialized in security assessment and validation, cryptography, ethical hacking, digital forensics, and building trustworthy systems.  
-- **B.Sc. in Applied Information Technology** – ISBAT University (2018-2021)  
-  - Focused on programming, algorithms, databases, networking and security.
+### AI Engineer, Reality Ai Lab *(Voluntary)*
+**Duration:** Nov 2023 – Feb 2024  
+- Developed *Nebular Navigator*, an AI-powered resume optimization tool using Python and NLP, boosting interview callbacks by 15%.
+- Automated keyword optimization for job applications, cutting manual customization time from 1 hour to 15 minutes.
 
----
+### IT Support Officer, Quality Chemicals Industries Limited (Cipla) *(Intern)*
+**Duration:** Jun 2022 – Jul 2022  
+- Managed IT infrastructure maintenance and backups, increasing server uptime and generating daily cost savings.
+- Deployed HIPAA-compliant security measures, enhancing data confidentiality and regulatory compliance.
+- Resolved user queries and managed daily support tickets, ensuring efficient troubleshooting.
 
-## 🌟 **Soft Skills**
-
-- Strong communicator with experience delivering training sessions on phishing awareness and cybersecurity best practices.  
-- Proactive team player skilled in mentoring, cross-functional collaboration, and stakeholder engagement.  
-- Analytical thinker with a keen ability to identify patterns in complex data sets and deliver actionable insights.  
-- Detail-oriented problem solver who thrives under pressure and adheres to strict deadlines.
-
----
-
-## 📫 **Connect with Me**
-
-- **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/joshua-kato-muwanguzi](https://www.linkedin.com/in/joshua-kato-muwanguzi/)  
-- **GitHub:** [github.com/katoxiv](https://github.com/katoxiv)  
+### Software Developer *(Freelance Intern)*
+**Duration:** Mar 2018 – Jan 2022  
+- Developed reusable code components and implemented containerized deployments via automated CI/CD pipelines with GitHub Actions.
+- Streamlined development cycles, reducing feature deployment times significantly while maintaining robust security measures.
+- Enhanced system performance by optimizing code, reducing response times, and minimizing security incidents.
 
 ---
 
-💡 *"The greatest defense in cybersecurity is proactive thinking and innovation. I am committed to pushing the boundaries of technology to create secure and resilient systems."*  
+## Beyond the CV
+
+While my resume highlights my technical expertise and professional milestones, I’m also deeply passionate about:
+- **Continuous Learning:** I actively participate in cybersecurity challenges, workshops, and seminars to stay ahead of emerging threats and trends.
+- **Open-Source Contributions:** I believe in the power of community-driven development and regularly contribute to projects that enhance security practices.
+- **Mentorship & Collaboration:** I enjoy sharing knowledge through mentorship and collaborative projects, aiming to inspire the next generation of cybersecurity professionals.
+
+I am driven by the belief that robust cybersecurity is the foundation of a thriving digital ecosystem. Whether it’s through innovative testing methods, dynamic incident response strategies, or strategic IT optimizations, I strive to deliver solutions that not only protect but also empower organizations.
 
 ---
+
+## Let’s Connect
+
+I’m always excited to connect with fellow professionals, potential collaborators, or anyone interested in discussing the latest in cybersecurity and IT innovation. Feel free to reach out via:
+- **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)
+- **Phone:** +256 771 884 501
+
+Thank you for stopping by! Explore my repositories for projects, and let’s work together to create a safer digital world.
+
+---
+
+*This page is a dynamic reflection of my professional journey and my commitment to excellence in cybersecurity and IT solutions.*
