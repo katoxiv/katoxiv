@@ -20,7 +20,7 @@ When I’m not diving into the latest security challenges, I’m developing inno
 ## Contact
 
 - **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)
-- **Phone:** +256 771 884 501
+- **Phone:** +256 771 884 501 | +44 7342 763 585
 - **LinkedIn:** [Visit my profile](#) *(https://www.linkedin.com/in/joshua-kato-muwanguzi/)*
 - **GitHub:** [Explore my projects](#) *(This link)*
 
@@ -128,7 +128,7 @@ I am driven by the belief that robust cybersecurity is the foundation of a thriv
 
 I’m always excited to connect with fellow professionals, potential collaborators, or anyone interested in discussing the latest in cybersecurity and IT innovation. Feel free to reach out via:
 - **Email:** [katocxl@gmail.com](mailto:katocxl@gmail.com)
-- **Phone:** +256 771 884 501    +44 7342 763 585
+- **Phone:** +256 771 884 501 | +44 7342 763 585
 
 Thank you for stopping by! Explore my repositories for projects, and let’s work together to create a safer digital world.
 
